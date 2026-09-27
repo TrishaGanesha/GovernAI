@@ -1,0 +1,6 @@
+﻿streamlit
+pypdf
+pandas
+pytesseract
+pdf2image
+reportlab

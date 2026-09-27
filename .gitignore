@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# GovernAI database and private data
+governai.db
+*.db
+*.sqlite
+*.sqlite3
+
+# OCR and PDF tools
+*.dll
+*.exe
+*.html
+*.1
+*.5
+tessdata/
+doc/
+poppler-windows-*/
+
+# Local and temporary files
+.DS_Store
+Thumbs.db
